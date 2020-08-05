@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/MusicQuiz/static/js/main.9f8296bd.chunk.js",
+    "main.js.map": "/MusicQuiz/static/js/main.9f8296bd.chunk.js.map",
+    "runtime-main.js": "/MusicQuiz/static/js/runtime-main.bcfc4c2c.js",
+    "runtime-main.js.map": "/MusicQuiz/static/js/runtime-main.bcfc4c2c.js.map",
+    "static/js/2.f7181fa1.chunk.js": "/MusicQuiz/static/js/2.f7181fa1.chunk.js",
+    "static/js/2.f7181fa1.chunk.js.map": "/MusicQuiz/static/js/2.f7181fa1.chunk.js.map",
+    "index.html": "/MusicQuiz/index.html",
+    "precache-manifest.1dedab13510e72a085fb355080ea31bc.js": "/MusicQuiz/precache-manifest.1dedab13510e72a085fb355080ea31bc.js",
+    "service-worker.js": "/MusicQuiz/service-worker.js",
+    "static/js/2.f7181fa1.chunk.js.LICENSE.txt": "/MusicQuiz/static/js/2.f7181fa1.chunk.js.LICENSE.txt",
+    "static/media/vinyls.jpg": "/MusicQuiz/static/media/vinyls.59db3b91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcfc4c2c.js",
+    "static/js/2.f7181fa1.chunk.js",
+    "static/js/main.9f8296bd.chunk.js"
+  ]
+}
