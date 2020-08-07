@@ -35,6 +35,8 @@ export const Wrapper = styled.div`
         color: #fff;
         font-size: 2rem;
         margin: 0;
+        -webkit-text-stroke-width: 1px; 
+        -webkit-text-stroke-color: black;
     }
 
     h1 {
